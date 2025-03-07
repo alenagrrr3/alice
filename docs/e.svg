@@ -12,7 +12,7 @@
 					box-sizing: border-box;
 				}
 				body {
-					min-height: 100vh;
+					
 					display: grid;
 					place-items: center;
 					margin: 0;
@@ -254,7 +254,7 @@
 				
 			</style>
 			
-			<div class="wrap animate pop">
+			<div> 
 				<img class="inset" src="evolut.png" alt="" />
 
 			</div>
