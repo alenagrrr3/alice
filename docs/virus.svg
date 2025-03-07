@@ -44,8 +44,8 @@
 					display: flex;
 					flex-wrap: nowrap;
 					justify-content: space-between;
-					width: 85vmin;
-					height: 65vmin;
+					width: 100%;
+					
 					margin: 2rem auto;
 					border: 8px solid;
 					border-image: linear-gradient(
