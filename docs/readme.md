@@ -1,1 +1,1 @@
-<img src="virus.svg" wifth="100%">
+<img src="virus.svg">
